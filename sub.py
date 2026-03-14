@@ -1,2 +1,2 @@
 def sub(a,b):
-  print("This is a subtraction function")
+  print("This is the subtraction function")
